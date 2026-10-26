@@ -4,13 +4,13 @@
 
 单文件离线网页，双击 `English_lianxi.html` 就能练，不用安装任何东西，也不用联网。
 
-![首页](screenshots/home.png)
+![首页](https://gcore.jsdelivr.net/gh/LPP159/english-lianxi@b1fbe80/screenshots/home.png)
 
 ## 核心玩法
 
 句子里挖掉的那个空，就是你要打的单词。
 
-![练习](screenshots/practice.png)
+![练习](https://gcore.jsdelivr.net/gh/LPP159/english-lianxi@b1fbe80/screenshots/practice.png)
 
 - 打满正确答案的长度就**自动判题**，不用按回车
 - 连对累积 🔥 连击，一次不错给 **PERFECT**，用了提示降为 GOOD

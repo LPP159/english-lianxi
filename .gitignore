@@ -1,0 +1,12 @@
+# 本地工作数据（助手记忆 / 临时）
+.workbuddy/
+.preview/
+__*
+*.log
+
+# 原始词表 PDF：版权原因不随仓库分发
+第一天.pdf
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
